@@ -1,5 +1,4 @@
-# jaypatel-150420116037-cloud-mastermini
-<!DOCTYPE html>
+
 <html>
 <title>CAFE</title>
 <meta charset="UTF-8">
